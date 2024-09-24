@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+.container1 {
+    display: flex;
+    border-color:black;
+    border-style: solid;
+}
+.container2 {
+    display: flex;
+    border-color: black;
+    border-style: solid;
+}
